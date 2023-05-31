@@ -9,9 +9,9 @@ Sequel of Osu
 
 ## Details
 
-| Programming language | Start and end date (original) | Start and end date (updated) |
-| :---: | :---: | :---: |
-| Processing | February 2018 | August 2022 |
+| Programming language | Start and end date (original) | Start and end date (updated) | Inspired by
+| :---: | :---: | :---: | :---: |
+| Processing | February 2018 | August 2022 | [Fortnite](https://www.fortnite.com/) |
 
 ## License
 
